@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">your_daily_record</string>
+    <string name="about">About the app</string>
+    <string name="lan">Set Language</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="text1">Menu</string>
+    <string name="home">Home</string>
+    <string name="aboutContent">Hello, I am Kenneth, this application developer. The application want to help you to record some moment with date and time and picture, you can use it to be diary, hope you can enjoy to use the application.</string>
+</resources>
